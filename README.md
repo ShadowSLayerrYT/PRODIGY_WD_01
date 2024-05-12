@@ -14,15 +14,16 @@
 
    ```bash
    git clone https://github.com/your-username/interactive-navigation-menu.git
+   ```
 
-📁 Navigate to the project directory:
+2. 📁 Navigate to the project directory:
 
 
 ```bash 
   cd interactive-navigation-menu 
 ```
 
-🚀 Open index.html in your web browser.
+3. 🚀 Open index.html in your web browser.
 
 ## Customize:
 
