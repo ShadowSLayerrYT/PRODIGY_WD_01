@@ -24,7 +24,6 @@
 Copy code
 
 ```cd interactive-navigation-menu
-```
 
 🚀 Open index.html in your web browser.
 
