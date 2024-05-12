@@ -2,10 +2,6 @@
 
 🌐 This project showcases an interactive navigation menu built using HTML, CSS, and JavaScript. The navigation menu has a fixed position and remains visible on all pages. It changes its background color when scrolled and the menu items change their background color when hovered over.
 
-## Preview
-
-![Interactive Navigation Menu Preview](preview.gif)
-
 ## Features
 
 - 🖇️ Fixed position navigation menu
