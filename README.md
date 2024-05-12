@@ -29,14 +29,14 @@ Copy code
 
 🚀 Open index.html in your web browser.
 
-Customize:
+## Customize:
 
 You can customize the colors and styles of the navigation menu by modifying the CSS files (styles.css) and JavaScript (script.js).
 
-Contributing:
+## Contributing:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or features you'd like to add.
 
-License:
+## License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
