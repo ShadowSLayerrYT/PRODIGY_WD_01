@@ -17,7 +17,6 @@
 
 📁 Navigate to the project directory:
 
-Copy code
 
 ```bash 
   cd interactive-navigation-menu 
