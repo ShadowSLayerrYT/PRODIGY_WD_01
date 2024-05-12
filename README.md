@@ -25,6 +25,7 @@ Copy code
 
 ```bash 
   cd interactive-navigation-menu 
+```
 
 🚀 Open index.html in your web browser.
 
